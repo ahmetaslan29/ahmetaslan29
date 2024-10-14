@@ -1,4 +1,4 @@
-[![MasterHead]https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/302114257/original/96cdd5b8fc2c343d1edcfd617d8d3d974b86160c/be-your-front-end-developer-in-react-js-next-js-typescript.png
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/302114257/original/96cdd5b8fc2c343d1edcfd617d8d3d974b86160c/be-your-front-end-developer-in-react-js-next-js-typescript.png)
 <h1 align="center">Hi 👋, I'm Ahmet ASLAN</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
