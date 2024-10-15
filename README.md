@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js,**
 
-- 💬 Ask me about **React.js | Next.js | Javascript | TypeScript | Angular | Firebase **
+- 💬 Ask me about **React.js | Next.js | Javascript | TypeScript | Angular | Firebase**
 
 - 📫 How to reach me **ahmetaslan2997@gmail.com**
 
